@@ -1,0 +1,6 @@
+{
+  "name": "Inventory System TNSP",
+  "description": "Sistem manajemen stok pergudangan modern (TNSP) premium dengan fitur multi-gudang, otentikasi role, scan barcode, pencatatan transaksi masuk/keluar, pencetakan PDF, dan laporan detail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
